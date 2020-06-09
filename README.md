@@ -9,3 +9,4 @@
 ## Program Explanation:
 - User must first enter the value and store it in a variable n.
 - The for loop enables i to range between n-1 and 0 with a decrement of 1 with each iteration.
+- For each iteration, ” ” is multiplied with n-i
