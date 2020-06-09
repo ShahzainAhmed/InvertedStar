@@ -3,3 +3,4 @@
 
 ## Problem Solution:
 - Take a value from the user and store it in a variable n.
+- Use a for loop where the value of i ranges between
