@@ -7,3 +7,5 @@
 - Multiply empty spaces with n-i and ‘*’ with i and print both of them.
 
 ## Program Explanation:
+-  User must first enter the value and store it in a variable n.
+- 
