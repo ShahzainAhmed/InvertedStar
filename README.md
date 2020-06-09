@@ -16,3 +16,4 @@
 - Taking inputs from the user.
 - For loops.
 - Range.
+- Print statement.
