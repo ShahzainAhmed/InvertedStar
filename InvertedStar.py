@@ -1,3 +1,5 @@
+# Program to create Inverted Star pattern. 
+
 # Taking input from the user.
 n=int(input("Enter number of rows: "))
 
