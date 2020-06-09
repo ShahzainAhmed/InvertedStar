@@ -11,3 +11,6 @@
 - The for loop enables i to range between n-1 and 0 with a decrement of 1 with each iteration.
 - For each iteration, ” ” is multiplied with n-i and ‘*’ is multiplied with i to ensure correct spacing of the stars.
 - The required pattern is printed.
+
+## To understand this program, you should keep the following concepts in mind: 
+- 
