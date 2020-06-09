@@ -13,4 +13,4 @@
 - The required pattern is printed.
 
 ## To understand this program, you should keep the following concepts in mind: 
-- 
+- Taking inputs from the user.
