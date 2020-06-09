@@ -1,2 +1,2 @@
-# InvertedStar
-program to create inverted star pattern.
+## Inverted Star Pattern:
+### 
